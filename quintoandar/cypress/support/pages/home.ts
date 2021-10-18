@@ -1,0 +1,1 @@
+// mapeamento de seletores e criação de métodos necessários para automatizar a página
